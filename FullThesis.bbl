@@ -8606,6 +8606,40 @@
       \endverb
       \keyw{Parasites,Coccidiosis,Apicomplexa,Cellular immunity,Eimeria falciformis,Protective immunity}
     \endentry
+    \entry{R_2010}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb http://www.R-project.org/
+      \endverb
+    \endentry
     \entry{raaberg_decomposing_2009}{article}{}
       \name{author}{3}{}{%
         {{hash=95edb5390116baacd3405eca644c5e2c}{%
@@ -10413,42 +10447,6 @@
       \endverb
       \verb{url}
       \verb https://journals.sagepub.com/doi/10.1258/002367776780948862
-      \endverb
-    \endentry
-    \entry{R_2010}{manual}{}
-      \name{author}{1}{}{%
-        {{hash=5d6aa4b40a1541f69f41ab99a47cb8f5}{%
-           family={Team},
-           familyi={T\bibinitperiod},
-           given={R\bibnamedelima Development\bibnamedelima Core},
-           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Vienna, Austria}%
-      }
-      \list{organization}{1}{%
-        {R Foundation for Statistical Computing}%
-      }
-      \strng{namehash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \strng{fullhash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \strng{bibnamehash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \strng{authorbibnamehash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \strng{authornamehash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \strng{authorfullhash}{5d6aa4b40a1541f69f41ab99a47cb8f5}
-      \field{sortinit}{T}
-      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{R: A language and environment for statistical computing}
-      \field{year}{2010}
-      \verb{urlraw}
-      \verb http://www.r-project.org
-      \endverb
-      \verb{url}
-      \verb http://www.r-project.org
       \endverb
     \endentry
     \entry{theodosopoulos_parasites_2019}{article}{}

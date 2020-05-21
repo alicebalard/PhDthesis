@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.5.21)  21 MAY 2020 21:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.5.21)  21 MAY 2020 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,10 +1107,7 @@ Overfull \hbox (11.13246pt too wide) in paragraph at lines 27--28
 Arial(0)/m/n/10.95 primers targeted the CDC42 nuclear gene (Ms_gDNA_CDC42_F:
  []
 
-[24] [25] [26] [27]
-Missing character: There is no Ⲅ in font cmmi10!
-Missing character: There is no Ⲅ in font Arial/OT:mapping=tex-text;!
- [28] [29]
+[24] [25] [26] [27] [28] [29]
 File: images/2article1/Figure1.pdf Graphic file (type pdf)
 <use images/2article1/Figure1.pdf>
  [30] [31]
@@ -1298,6 +1295,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `FullThesis.out' has not changed.
 (rerunfilecheck)             Checksum: 4F891AF1FBAE446D2918883BD88D96D2.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'FullThesis.run.xml'.
 \openout1 = `FullThesis.run.xml'.
 
@@ -1306,7 +1308,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
 Here is how much of TeX's memory you used:
  31950 strings out of 494857
  617948 string characters out of 6175999
- 1395763 words of memory out of 5000000
+ 1395727 words of memory out of 5000000
  35581 multiletter control sequences out of 15000+600000
  535653 words of font info for 61 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191

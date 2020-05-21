@@ -1,0 +1,99 @@
+\documentclass[11pt]{report} 
+
+\usepackage{graphicx} % for graphics
+\usepackage{float} % to position graphics
+\usepackage{caption}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage[a4paper, margin=2.5cm]{geometry} %set up margins 2.5cm
+\usepackage{xcolor}
+\definecolor{coolblack}{rgb}{0.0, 0.18, 0.39} %citations color
+\usepackage[hyphens]{url}
+\usepackage{hyperref}%for DOI
+%\usepackage[url]
+\hypersetup{colorlinks,linkcolor=black,urlcolor=teal,citecolor=teal} 
+\setlength{\parindent}{0pt} % no paragraph indentation
+\setlength{\parskip}{1em} %but a space
+\usepackage{textcomp} % provides underscore
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5}  % increase line spacing
+\usepackage{caption} % for caption to be grey
+\usepackage[font={color=gray}]{caption}
+
+\usepackage{titletoc}% format TOC titles
+\titlecontents{chapter}% <section-type>
+  [0pt]% <left>
+  {\bfseries}% <above-code>
+  {\chaptername\ \thecontentslabel:\quad}% <numbered-entry-format>
+  {}% <numberless-entry-format>
+  {\hfill\contentspage}% <filler-page-format>
+  
+\usepackage{titlesec} % format chapters titles
+\titleformat{\chapter}[display]
+{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\LARGE}[\vspace{2ex}\titlerule]
+
+%bibliography:
+\input{biblisettings.tex}
+\bibliography{PhDthesis.bib}
+
+\begin{document}
+
+\input{chapters/titlepage}
+\clearpage
+\input{chapters/p2}
+\clearpage
+
+\tableofcontents
+
+\chapter*{List of abbreviations}
+\addcontentsline{toc}{chapter}{List of abbreviations}
+\begin{tabular}{l l}
+Abbreviation & full term \\
+\hline
+MHC & Major Histocompatibility Complex \\
+Mmd & \textit{Mus musculus domesticus} \\
+Mmm    & \textit{Mus musculus musculus}  \\
+HMHZ   & European house mouse hybrid zone \\
+\end{tabular}
+
+\chapter{General introduction}
+\input{chapters/1introduction}
+ 
+\chapter{Intensity of infection with intracellular \textit{Eimeria spp.} and pinworms is reduced in hybrid mice compared to parental subspecies}
+\input{chapters/2article1}
+
+\chapter{Coupling between tolerance and resistance differs between related \textit{Eimeria} parasite species: implications for coevolution with their mouse hosts}
+\input{chapters/3article2}
+
+\chapter{General discussion}
+\input{chapters/4discussion}
+
+\chapter*{Summary}
+\addcontentsline{toc}{chapter}{Summary}
+\input{chapters/Summary}
+
+\chapter*{Zusammenfassung}
+\addcontentsline{toc}{chapter}{Zusammenfassung}
+\input{chapters/Zusammenfassung}
+
+\newpage
+\printbibliography[heading=bibintoc]
+
+\chapter*{Supplementary figures}
+\addcontentsline{toc}{chapter}{Supplementary figures}
+\input{chapters/supplementaryFigures}
+
+\chapter*{List of publications}
+\addcontentsline{toc}{chapter}{List of publications}
+\input{chapters/publications}
+\clearpage
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\input{chapters/Acknowledgements}
+
+\chapter*{Selbstständigkeitserklärung}
+\addcontentsline{toc}{chapter}{Selbstständigkeitserklärung}
+\input{chapters/statementofauthorship}
+
+\end{document}

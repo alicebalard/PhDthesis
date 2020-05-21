@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'FullThesis.blg'
+[26] biber:315> INFO - === Thu May 21, 2020, 21:59:17
+[48] Biber.pm:371> INFO - Reading 'FullThesis.bcf'
+[174] Biber.pm:889> INFO - Found 195 citekeys in bib section 0
+[185] Biber.pm:4093> INFO - Processing section 0
+[196] Biber.pm:4254> INFO - Looking for bibtex format file 'PhDthesis.bib' for section 0
+[227] bibtex.pm:1512> INFO - LaTeX decoding ...
+[691] bibtex.pm:1329> INFO - Found BibTeX data source 'PhDthesis.bib'
+[2238] Utils.pm:193> WARN - BibTeX subsystem: /tmp/0xgJeo10DC/PhDthesis.bib_25009.utf8, line 3141, warning: 102 characters of junk seen at toplevel
+[2486] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2486] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2486] Biber.pm:3921> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-GB'
+[2486] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-GB'
+[2685] bbl.pm:636> INFO - Writing 'FullThesis.bbl' with encoding 'UTF-8'
+[2799] bbl.pm:739> INFO - Output to FullThesis.bbl
+[2800] Biber.pm:110> INFO - WARNINGS: 1

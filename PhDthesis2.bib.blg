@@ -1,0 +1,14 @@
+[0] Config.pm:304> INFO - This is Biber 2.12 running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is 'PhDthesis2.bib.blg'
+[35] biber:315> INFO - === Thu May 21, 2020, 16:08:33
+[58] Biber.pm:4250> INFO - Looking for bibtex format file 'PhDthesis2.bib'
+[88] bibtex.pm:1512> INFO - LaTeX decoding ...
+[604] bibtex.pm:1329> INFO - Found BibTeX data source 'PhDthesis2.bib'
+[1992] Utils.pm:193> WARN - BibTeX subsystem: /tmp/CsjdkUgp3t/PhDthesis2.bib_26196.utf8, line 3206, warning: 102 characters of junk seen at toplevel
+[2032] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2032] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2032] Biber.pm:3921> INFO - Sorting list 'tool/global//global/global' of type 'entry' with template 'tool' and locale 'en_US'
+[2033] Biber.pm:3927> INFO - No sort tailoring available for locale 'en_US'
+[2162] bibtex.pm:335> INFO - Writing 'PhDthesis2_bibertool.bib' with encoding 'UTF-8'
+[2183] bibtex.pm:365> INFO - Output to PhDthesis2_bibertool.bib
+[2183] Biber.pm:110> INFO - WARNINGS: 1

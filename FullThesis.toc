@@ -1,0 +1,137 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {british}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of abbreviations}{6}{chapter*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}General introduction}{7}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Are parasites a selective force in the European house mouse hybrid zone?}{7}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Hybrids are not an average of their parents}{7}{subsection.1.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}The European house mouse hybrid zone, a tension zone}{9}{subsection.1.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.3}Parasites as hosts’ selective factor}{11}{subsection.1.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Host immune defenses against parasites}{12}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Resistance and tolerance}{12}{subsection.1.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Immune defenses are costly}{13}{subsection.1.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Our parasite model: \textit {Eimeria} spp.}{15}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}\textit {Eimeria} spp. trigger a Th1 immune response}{15}{subsection.1.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Focus on two \textit {Eimeria} species: \textit {E.~falciformis} and \textit {E.~ferrisi}}{16}{subsection.1.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Proxies for resistance and tolerance to \textit {Eimeria} spp.}{17}{subsection.1.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Aims of this thesis}{17}{section.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Intensity of infection with intracellular \textit {Eimeria spp.} and pinworms is reduced in hybrid mice compared to parental subspecies}{19}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Abstract}{19}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Introduction}{20}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Material \& Methods}{22}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Sampling}{22}{subsection.2.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Host genotyping}{23}{subsection.2.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Parasite load estimation}{24}{subsection.2.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}General parasite assessment}{25}{subsection.2.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Statistical design: testing hybrid resistance/susceptibility in a natural system}{25}{subsection.2.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.6}Statistical prediction of probability of infection by parasites along the hybrid zone}{26}{subsection.2.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.7}Statistical test for different mortality of hybrids}{27}{subsection.2.3.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.8}Statistical test of the host hybridization effect on parasite intensity}{27}{subsection.2.3.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.9}Test of body condition differences between infected and non-infected mice across the hybrid zone}{29}{subsection.2.3.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Results}{30}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Host genotyping and characterization of the HMHZ for a novel transect}{30}{subsection.2.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Parasite prevalence and intensity}{31}{subsection.2.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}Similar prevalence of parasites across the zone}{31}{subsection.2.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}No evidence of hyper- or under-mortality of hybrids compared to parents}{32}{subsection.2.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}\textit {Eimeria} spp. load is lower in infected hybrid vs pure Mmm and Mmd mice}{33}{subsection.2.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.6}Pinworm load is lower in infected hybrid vs. pure Mmm and Mmd mice}{34}{subsection.2.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.7}Comparison of pinworms loads with previous reports}{35}{subsection.2.4.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.8}No evidence of body condition differences between infected and non-infected mice along the hybrid zone}{36}{subsection.2.4.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Discussion}{39}{section.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Coupling between tolerance and resistance differs between related \textit {Eimeria} parasite species: implications for coevolution with their mouse hosts}{43}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Abstract}{43}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Introduction}{44}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Material and methods}{46}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Parasite isolates}{46}{subsection.3.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Mouse strains}{46}{subsection.3.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Experimental infection}{48}{subsection.3.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Statistical analyses}{50}{subsection.3.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Choice of proxies for resistance, impact of parasite on host and tolerance}{50}{subsection.3.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Statistical modelling}{51}{subsection.3.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Test of local adaptation}{51}{subsection.3.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Test of coupling between resistance and tolerance}{52}{subsection.3.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Results}{52}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}General}{52}{subsection.3.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}No indication of local adaptation of \textit {E.~ferrisi}}{54}{subsection.3.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Resistance and tolerance to \textit {E.~ferrisi }isolate Brandenburg64 are uncoupled}{55}{subsection.3.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Coupling between resistance and tolerance to \textit {E.~falciformis}}{57}{subsection.3.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Discussion}{59}{section.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}General discussion}{62}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Summary of the studies}{62}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Discrepancies between studies on hybrid resistance or susceptibility to parasites in the HMHZ are likely explained by methodological issues}{64}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Studies of parasite selective pressure on their hosts requires a switch of focus from resistance to tolerance}{66}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Conclusion and perspective}{67}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Summary}{69}{chapter*.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Zusammenfassung}{70}{chapter*.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{72}{chapter*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Supplementary figures}{90}{chapter*.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of publications}{102}{chapter*.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{103}{chapter*.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Selbstständigkeitserklärung}{104}{chapter*.38}% 
+\contentsfinish 

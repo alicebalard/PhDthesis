@@ -1,0 +1,6 @@
+[0] Config.pm:304> INFO - This is Biber 2.12 running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is 'test.bib.blg'
+[24] biber:315> INFO - === Thu May 21, 2020, 16:08:17
+[47] Biber.pm:4250> INFO - Looking for bibtex format file 'test.bib'
+[104] Utils.pm:209> ERROR - Cannot find 'test.bib'!
+[104] Biber.pm:114> INFO - ERRORS: 1

@@ -161,6 +161,76 @@
       \endverb
       \keyw{Cellular changes,Gut barrier,intestinal nematode,non-invasive method,RELM-β}
     \endentry
+    \entry{al-khlifeh_eimeria_2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5adac530ee4eaca876adf402683dc9ac}{%
+           family={Al{-khlifeh}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5ee6af59c7adb8103f766bd87f7529b7}{%
+           family={Balard},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0d32a2927a37634ca89a1c281b674489}{%
+           family={Jarquín-Díaz},
+           familyi={J\bibinithyphendelim D\bibinitperiod},
+           given={V.\bibnamedelimi H.},
+           giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a39f2d1348a2c262db0bdfb22958c034}{%
+           family={Weyrich},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f6b864feb1db4828ef555efd7b843fee}{%
+           family={Wibbelt},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0a11bca36043ad5b9dcf1c85b5b191bd}{%
+           family={Heitlinger},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{71b2b2c9b82f6246b442d937ff2e27f6}
+      \strng{fullhash}{af8dbf44ed7eb83f2ff91336ac3efa6d}
+      \strng{bibnamehash}{af8dbf44ed7eb83f2ff91336ac3efa6d}
+      \strng{authorbibnamehash}{af8dbf44ed7eb83f2ff91336ac3efa6d}
+      \strng{authornamehash}{71b2b2c9b82f6246b442d937ff2e27f6}
+      \strng{authorfullhash}{af8dbf44ed7eb83f2ff91336ac3efa6d}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{bioRxiv}
+      \field{month}{5}
+      \field{shorttitle}{Eimeria falciformis {BayerHaberkorn1970} and novel wild derived isolates from house mice}
+      \field{title}{\textit{Eimeria falciformis} {BayerHaberkorn1970} and novel wild derived isolates from house mice: differences in parasite lifecycle, pathogenicity and host immune reactions}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{611277}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1101/611277
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/611277v2
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/611277v2
+      \endverb
+    \endentry
     \entry{albrechtova_sperm-related_2012}{article}{}
       \name{author}{8}{}{%
         {{hash=3f1787f6ff2d807a70f00762a738ed21}{%
@@ -246,76 +316,6 @@
       \verb http://rspb.royalsocietypublishing.org/content/279/1748/4803
       \endverb
       \keyw{Hybrid zone,male fitness,species barrier,sperm,Y introgression}
-    \endentry
-    \entry{al-khlifeh_eimeria_2019}{article}{}
-      \name{author}{6}{}{%
-        {{hash=e9c00abff37478933c896ec9bb8c2ad5}{%
-           family={AlKhlifeh},
-           familyi={A\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{hash=5ee6af59c7adb8103f766bd87f7529b7}{%
-           family={Balard},
-           familyi={B\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0d32a2927a37634ca89a1c281b674489}{%
-           family={Jarquín-Díaz},
-           familyi={J\bibinithyphendelim D\bibinitperiod},
-           given={V.\bibnamedelimi H.},
-           giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=a39f2d1348a2c262db0bdfb22958c034}{%
-           family={Weyrich},
-           familyi={W\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f6b864feb1db4828ef555efd7b843fee}{%
-           family={Wibbelt},
-           familyi={W\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=0a11bca36043ad5b9dcf1c85b5b191bd}{%
-           family={Heitlinger},
-           familyi={H\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{5150f534f158d8c7f65d22618eae97f8}
-      \strng{fullhash}{1a0133f6198f639bf91d2dba3b2e7fa9}
-      \strng{bibnamehash}{1a0133f6198f639bf91d2dba3b2e7fa9}
-      \strng{authorbibnamehash}{1a0133f6198f639bf91d2dba3b2e7fa9}
-      \strng{authornamehash}{5150f534f158d8c7f65d22618eae97f8}
-      \strng{authorfullhash}{1a0133f6198f639bf91d2dba3b2e7fa9}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{bioRxiv}
-      \field{month}{5}
-      \field{shorttitle}{Eimeria falciformis {BayerHaberkorn1970} and novel wild derived isolates from house mice}
-      \field{title}{\textit{Eimeria falciformis} {BayerHaberkorn1970} and novel wild derived isolates from house mice: differences in parasite lifecycle, pathogenicity and host immune reactions}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2020}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{611277}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1101/611277
-      \endverb
-      \verb{urlraw}
-      \verb https://www.biorxiv.org/content/10.1101/611277v2
-      \endverb
-      \verb{url}
-      \verb https://www.biorxiv.org/content/10.1101/611277v2
-      \endverb
     \endentry
     \entry{anderson_coevolution_1982}{article}{}
       \name{author}{2}{}{%
@@ -465,7 +465,7 @@
       \field{abstract}{SYNOPSIS. The life cycle of Eimeria ferrisi is described from experimentally infected Mus musculus. The prepatent period was 3 days and the patent period was 3–4 days. The endogenous stages were found only in the cecum and colon. Three generations of schizonts were found. Mature 1st-generation schizonts first seen 24 hr postinoculation (PI) measured 10.9 (7–14) × 10.2 (6–13) μm and had 9.6 (7–14) merozoites. Some 2nd-generation schizonts had uninucleate merozoites and others had multinucleate merozoites. The former were first seen in small numbers 36 hr PI and were most abundant 48 hr PI. They measured 9.6 (5–13) × 7.9 (6–12) μm and had 18 (6–25) merozoites. Schizonts with multinucleate merozoites were seen 72 hr PI. Mature 3rd-generation schizonts were seen 72 hr PI. They measured 14.0 (12–18) × 11-0 (9–13) μm and had 12.5 (5–16) merozoites. Macrogamonts were first seen in 72 hr sections. Each young macrogamont had a large nucleus with a prominent nucleolus. Only one type of cytoplasmic granule appeared to be involved in the formation of the oocyst wall. Mature macrogamonts were 11.0 (5–14) × 10.0 (6–13) μm. Crescent-shaped bodies were observed in the parasitophorous vacuole of trophozoites and young macrogamonts. Early microgamonts were first recognized at 96 hr by the presence of darkly stained and irregularly shaped nuclei. Usually, mature microgametes were arranged in long, narrow whorls at the periphery of the microgamont or in whorls at the surface of 2–5 compartments.}
       \field{issn}{1550-7408}
       \field{journaltitle}{The Journal of Protozoology}
-      \field{title}{Life {Cycle} of {Eimeria} ferrisi {Levine} \& {Ivens}, 1965 in the {Mouse}, {Mus} musculus}
+      \field{title}{Life cycle of \textit{Eimeria~ferrisi} {Levine} \& {Ivens}, 1965 in the {mouse}, \textit{Mus~musculus}}
       \field{urlday}{25}
       \field{urlmonth}{3}
       \field{urlyear}{2020}
@@ -487,56 +487,6 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1550-7408.1975.tb05177.x
       \endverb
       \keyw{Eimeria ferrisi,experimental infection,life cycle,light microscopy,Mus musculus}
-    \endentry
-    \entry{arnold_natural_2004}{article}{}
-      \name{author}{1}{}{%
-        {{hash=50d6ac4f4d7df7c48d69682a07e44f78}{%
-           family={Arnold},
-           familyi={A\bibinitperiod},
-           given={Michael\bibnamedelima L.},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \strng{fullhash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \strng{bibnamehash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \strng{authorbibnamehash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \strng{authornamehash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \strng{authorfullhash}{50d6ac4f4d7df7c48d69682a07e44f78}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The role of natural hybridization in the evolutionary history of numerous species is well recognized. The impact of introgressive hybridization and hybrid speciation has been documented especially in plant and animal assemblages. However, there remain certain areas of investigation for which natural hybridization and its consequences remain under-studied and under-appreciated. One such area involves the evolution of organisms that positively or negatively affect human populations. In this review, I highlight exemplars of how natural hybridization has contributed to the evolution of (i) domesticated plants and animals; (ii) pests; (iii) human disease vectors; and (iv) human pathogens. I focus on the effects from genetic exchange that may lead to the acquisition of novel phenotypes and thus increase the beneficial or detrimental (to human populations) aspects of the various taxa.}
-      \field{issn}{1365-294X}
-      \field{journaltitle}{Molecular Ecology}
-      \field{title}{Natural hybridization and the evolution of domesticated, pest and disease organisms}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2020}
-      \field{volume}{13}
-      \field{year}{2004}
-      \field{urldateera}{ce}
-      \field{pages}{997\bibrangedash 1007}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1111/j.1365-294X.2004.02145.x
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/IQG7AULX/Arnold - 2004 - Natural hybridization and the evolution of domesti.pdf:application/pdf;Snapshot:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/HPTJ23VW/j.1365-294X.2004.02145.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2004.02145.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2004.02145.x
-      \endverb
-      \keyw{disease,domestication,introgression,natural hybridization,pests}
     \endentry
     \entry{auffray_house_2012}{incollection}{}
       \name{author}{2}{}{%
@@ -1764,57 +1714,6 @@
       \verb 10.1111/j.0030-1299.2004.12777.x
       \endverb
     \endentry
-    \entry{brock_history_2014}{article}{}
-      \name{author}{3}{}{%
-        {{hash=265039b5dc75c6b23efb93be2979f4b6}{%
-           family={Brock},
-           familyi={B\bibinitperiod},
-           given={Patrick\bibnamedelima M.},
-           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=37da361d6a70132bcda658fbe2104477}{%
-           family={Murdock},
-           familyi={M\bibinitperiod},
-           given={Courtney\bibnamedelima C.},
-           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=8bc6af443e193683791d41075f56b762}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={Lynn\bibnamedelima B.},
-           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {eng}%
-      }
-      \strng{namehash}{69607d635c6062c674260eeab4182e5a}
-      \strng{fullhash}{6c369949a36e3e7006192a418bd34466}
-      \strng{bibnamehash}{6c369949a36e3e7006192a418bd34466}
-      \strng{authorbibnamehash}{6c369949a36e3e7006192a418bd34466}
-      \strng{authornamehash}{69607d635c6062c674260eeab4182e5a}
-      \strng{authorfullhash}{6c369949a36e3e7006192a418bd34466}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ecoimmunology is an example of how fruitful integrative approaches to biology can be. Since its emergence, ecoimmunology has sparked constructive debate on a wide range of topics, from the molecular mechanics of immune responses to the role of immunity in shaping the evolution of life histories. To complement the symposium Methods and Mechanisms in Ecoimmunology and commemorate the inception of the Division of Ecoimmunology and Disease Ecology within the Society for Integrative and Comparative Biology, we appraise the origins of ecoimmunology, with a focus on its continuing and valuable integration with disease ecology. Arguably, the greatest contribution of ecoimmunology to wider biology has been the establishment of immunity as an integral part of organismal biology, one that may be regulated to maximize fitness in the context of costs, constraints, and complex interactions. We discuss historical impediments and ongoing progress in ecoimmunology, in particular the thorny issue of what ecoimmunologists should, should not, or cannot measure, and what novel contributions ecoimmunologists have made to the understanding of host-parasite interactions. Finally, we highlight some areas to which ecoimmunology is likely to contribute in the near future.}
-      \field{issn}{1557-7023}
-      \field{journaltitle}{Integrative and Comparative Biology}
-      \field{month}{9}
-      \field{title}{The history of ecoimmunology and its integration with disease ecology}
-      \field{volume}{54}
-      \field{year}{2014}
-      \field{pages}{353\bibrangedash 362}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1093/icb/icu046
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/EK4892RH/Brock et al. - 2014 - The history of ecoimmunology and its integration w.pdf:application/pdf
-      \endverb
-      \keyw{Animals,Communicable Diseases,Ecosystem,Ecology,Research,Environmental Health,History,20th Century,History,21st Century,Interdisciplinary Studies}
-    \endentry
     \entry{burrell_life_2019}{article}{}
       \name{author}{4}{}{%
         {{hash=2c92af44339b83c5b691a64a0ff7315b}{%
@@ -1997,6 +1896,7 @@
       \field{journaltitle}{Evolution}
       \field{month}{8}
       \field{title}{A unified model for the coevolution of resistance, tolerance, and virulence}
+      \field{volume}{64}
       \field{year}{2010}
       \field{pages}{2988\bibrangedash 3009}
       \range{pages}{22}
@@ -3656,56 +3556,6 @@
       \endverb
       \keyw{speciation,introgression,ancestral polymorphism,effective population size}
     \endentry
-    \entry{Gettov2016}{article}{}
-      \name{author}{3}{}{%
-        {{hash=7257cd8722a9b412375ed226ff034ffe}{%
-           family={Gettov{á}},
-           familyi={G\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
-        {{hash=ac5f10dedbe15b5352398516b8b9571a}{%
-           family={Gilles},
-           familyi={G\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a214504e860205bec089ada50b7fd057}{%
-           family={{Š}imkov{á}},
-           familyi={Š\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media {LLC}}%
-      }
-      \strng{namehash}{9c843fae093ff949155c3655101cfa80}
-      \strng{fullhash}{a44dd1f5329a0c540c1d65fd41cfc5ce}
-      \strng{bibnamehash}{a44dd1f5329a0c540c1d65fd41cfc5ce}
-      \strng{authorbibnamehash}{a44dd1f5329a0c540c1d65fd41cfc5ce}
-      \strng{authornamehash}{9c843fae093ff949155c3655101cfa80}
-      \strng{authorfullhash}{a44dd1f5329a0c540c1d65fd41cfc5ce}
-      \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Parasites {\&} Vectors}
-      \field{month}{11}
-      \field{title}{Metazoan parasite communities: support for the biological invasion of Barbus barbus and its hybridization with the endemic Barbus meridionalis}
-      \field{volume}{9}
-      \field{year}{2016}
-      \verb{doi}
-      \verb 10.1186/s13071-016-1867-9
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1186/s13071-016-1867-9
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1186/s13071-016-1867-9
-      \endverb
-    \endentry
     \entry{gouy_de_bellocq_new_2012}{incollection}{}
       \name{author}{3}{}{%
         {{hash=6d119e1b804d8c57bd28793a666bb4de}{%
@@ -4234,7 +4084,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{0015-5500}
       \field{journaltitle}{Folia Biologica}
-      \field{title}{{PWD}/{Ph} and {PWK}/{Ph} inbred mouse strains of {Mus} m. musculus subspecies--a valuable resource of phenotypic variations and genomic polymorphisms}
+      \field{title}{{PWD}/{Ph} and {PWK}/{Ph} inbred mouse strains of \textit{Mus~m.~musculus} subspecies--a valuable resource of phenotypic variations and genomic polymorphisms}
       \field{volume}{46}
       \field{year}{2000}
       \field{pages}{31\bibrangedash 41}
@@ -4797,87 +4647,6 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14017
       \endverb
       \keyw{DGRP,Drosophila,genomewide association study,host-pathogen interactions,immunity,resistance,tolerance}
-    \endentry
-    \entry{huyse_bidirectional_2009}{article}{}
-      \name{author}{7}{}{%
-        {{hash=55859a7b39e9a54e37b35504a181881e}{%
-           family={Huyse},
-           familyi={H\bibinitperiod},
-           given={Tine},
-           giveni={T\bibinitperiod}}}%
-        {{hash=37d1c3ae985f590b0c20bea60dd351d0}{%
-           family={Webster},
-           familyi={W\bibinitperiod},
-           given={Bonnie\bibnamedelima L.},
-           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=6ec43fe5c2753a066d0097957eb076cb}{%
-           family={Geldof},
-           familyi={G\bibinitperiod},
-           given={Sarah},
-           giveni={S\bibinitperiod}}}%
-        {{hash=bf05011bb6725c7af276d0d884be920e}{%
-           family={Stothard},
-           familyi={S\bibinitperiod},
-           given={J.\bibnamedelimi Russell},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=45f352df7bb08f2698ecb26f2127992a}{%
-           family={Diaw},
-           familyi={D\bibinitperiod},
-           given={Oumar\bibnamedelima T.},
-           giveni={O\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=502af0c58eb91541c0bd411348b291ee}{%
-           family={Polman},
-           familyi={P\bibinitperiod},
-           given={Katja},
-           giveni={K\bibinitperiod}}}%
-        {{hash=751e8a8cb7eeb3fc179bcc12141c1117}{%
-           family={Rollinson},
-           familyi={R\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{3b624fe9701f54ba3c94e81ede7e6a76}
-      \strng{fullhash}{a073892ff6f7bdb2af0701f1a05bc268}
-      \strng{bibnamehash}{a073892ff6f7bdb2af0701f1a05bc268}
-      \strng{authorbibnamehash}{a073892ff6f7bdb2af0701f1a05bc268}
-      \strng{authornamehash}{3b624fe9701f54ba3c94e81ede7e6a76}
-      \strng{authorfullhash}{a073892ff6f7bdb2af0701f1a05bc268}
-      \field{sortinit}{H}
-      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Schistosomiasis is a disease of great medical and veterinary importance in tropical and subtropical regions, caused by parasitic flatworms of the genus Schistosoma (subclass Digenea). Following major water development schemes in the 1980s, schistosomiasis has become an important parasitic disease of children living in the Senegal River Basin (SRB). During molecular parasitological surveys, nuclear and mitochondrial markers revealed unexpected natural interactions between a bovine and human Schistosoma species: S. bovis and S. haematobium, respectively. Hybrid schistosomes recovered from the urine and faeces of children and the intermediate snail hosts of both parental species, Bulinus truncatus and B. globosus, presented a nuclear ITS rRNA sequence identical to S. haematobium, while the partial mitochondrial cox1 sequence was identified as S. bovis. Molecular data suggest that the hybrids are not 1st generation and are a result of parental and/or hybrid backcrosses, indicating a stable hybrid zone. Larval stages with the reverse genetic profile were also found and are suggested to be F1 progeny. The data provide indisputable evidence for the occurrence of bidirectional introgressive hybridization between a bovine and a human Schistosoma species. Hybrid species have been found infecting B. truncatus, a snail species that is now very abundant throughout the SRB. The recent increase in urinary schistosomiasis in the villages along the SRB could therefore be a direct effect of the increased transmission through B. truncatus. Hybridization between schistosomes under laboratory conditions has been shown to result in heterosis (higher fecundity, faster maturation time, wider intermediate host spectrum), having important implications on disease prevalence, pathology and treatment. If this new hybrid exhibits the same hybrid vigour, it could develop into an emerging pathogen, necessitating further control strategies in zones where both parental species overlap.}
-      \field{issn}{1553-7374}
-      \field{journaltitle}{PLOS Pathogens}
-      \field{month}{9}
-      \field{title}{Bidirectional {introgressive} {hybridization} between a {cattle} and {human} {schistosome} {species}}
-      \field{urlday}{25}
-      \field{urlmonth}{3}
-      \field{urlyear}{2020}
-      \field{volume}{5}
-      \field{year}{2009}
-      \field{urldateera}{ce}
-      \field{pages}{e1000571}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1371/journal.ppat.1000571
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/29IGDC5M/Huyse et al. - 2009 - Bidirectional Introgressive Hybridization between .pdf:application/pdf;Snapshot:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/FUVWHTQM/article.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000571
-      \endverb
-      \verb{url}
-      \verb https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000571
-      \endverb
-      \keyw{Hybridization,Parasitic diseases,Schistosoma,Schistosoma haematobium,Schistosoma mansoni,Schistosomiasis,Snails,Urine}
     \endentry
     \entry{Jackman2020}{manual}{}
       \name{author}{1}{}{%
@@ -5484,53 +5253,6 @@
       \verb https://journal.r-project.org/archive/2013/RJ-2013-014/index.html
       \endverb
     \endentry
-    \entry{Kaltz1998}{article}{}
-      \name{author}{2}{}{%
-        {{hash=bc108fa5d11de5f2ee1dc41dce21b9c6}{%
-           family={Kaltz},
-           familyi={K\bibinitperiod},
-           given={Oliver},
-           giveni={O\bibinitperiod}}}%
-        {{hash=12f98b7b1590e181ad82e481b2db23e9}{%
-           family={Shykoff},
-           familyi={S\bibinitperiod},
-           given={Jacqui\bibnamedelima A},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media {LLC}}%
-      }
-      \strng{namehash}{75891b876041d884f966ad5ba243cba6}
-      \strng{fullhash}{75891b876041d884f966ad5ba243cba6}
-      \strng{bibnamehash}{75891b876041d884f966ad5ba243cba6}
-      \strng{authorbibnamehash}{75891b876041d884f966ad5ba243cba6}
-      \strng{authornamehash}{75891b876041d884f966ad5ba243cba6}
-      \strng{authorfullhash}{75891b876041d884f966ad5ba243cba6}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Heredity}
-      \field{month}{10}
-      \field{title}{Local adaptation in host{–}parasite systems}
-      \field{volume}{81}
-      \field{year}{1998}
-      \field{pages}{361\bibrangedash 370}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1046/j.1365-2540.1998.00435.x
-      \endverb
-      \verb{urlraw}
-      \verb 10.1046/j.1365-2540.1998.00435.x
-      \endverb
-      \verb{url}
-      \verb 10.1046/j.1365-2540.1998.00435.x
-      \endverb
-    \endentry
     \entry{karvonen_role_2012}{article}{}
       \name{author}{2}{}{%
         {{hash=3b69516068237af21a498ef5b8494b05}{%
@@ -5946,13 +5668,13 @@
         {{hash=6dede03f2f329727c0f1e39222adcb34}{%
            family={Kutzer},
            familyi={K\bibinitperiod},
-           given={Megan\bibnamedelima AM},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given={Megan\bibnamedelimb A.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=89b287b9b648301c7e3e7a4e37c22fbf}{%
            family={Armitage},
            familyi={A\bibinitperiod},
-           given={Sophie\bibnamedelima AO},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given={Sophie\bibnamedelimb A.\bibnamedelimi O.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
       }
       \strng{namehash}{4878543c76fdc6c0e8b28671da4d370b}
       \strng{fullhash}{4878543c76fdc6c0e8b28671da4d370b}
@@ -5979,6 +5701,102 @@
       \endverb
       \verb{file}
       \verb Full Text:/home/alice/.zotero/zotero/8rqjrnmd.default/zotero/storage/2KHMFLBF/S0944200616300368.html:text/html
+      \endverb
+    \endentry
+    \entry{kvac_coevolution_2013}{article}{}
+      \name{author}{12}{}{%
+        {{hash=8c4be1ad9ad1822c148e71c8af61b748}{%
+           family={Kv{á}{č}},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=183beee65716c8b212c7816adde1c7ef}{%
+           family={McEvoy},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a5e4f1dae4c3e6d55019c1c6731a4ddd}{%
+           family={Loudov{á}},
+           familyi={L\bibinitperiod},
+           given={Martina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d2922911783a0d648563f93778b3ce59}{%
+           family={Stenger},
+           familyi={S\bibinitperiod},
+           given={Brianna},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cc9432a9c8df33a4b345f8bba982eae4}{%
+           family={Sak},
+           familyi={S\bibinitperiod},
+           given={Bohumil},
+           giveni={B\bibinitperiod}}}%
+        {{hash=afd207ea657dce9c01f9f10eb12f0707}{%
+           family={Kv{ě}to{ň}ov{á}},
+           familyi={K\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=22c0bf01f0f29fc7f07abd7bcb7effd3}{%
+           family={Ditrich},
+           familyi={D\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+        {{hash=0495bd1b6f600565aaa9c5c1d150ad72}{%
+           family={Ra{š}kov{á}},
+           familyi={R\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a3ba0cff8faf6b70ccb361e158c4e39e}{%
+           family={Moriarty},
+           familyi={M\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4668c42daf70e2e62e2725943e64feb9}{%
+           family={Rost},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dbaca358fd41dcd2acd82bbdd270136e}{%
+           family={Machol{á}n},
+           familyi={M\bibinitperiod},
+           given={Milo{š}},
+           giveni={M\bibinitperiod}}}%
+        {{hash=76ecb28e52369100387ff79a493e469f}{%
+           family={Pi{á}lek},
+           familyi={P\bibinitperiod},
+           given={Jaroslav},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{205c015c61573d46421919562a841c26}
+      \strng{fullhash}{ef67ea82e5c791a62b66b751b2ae0faa}
+      \strng{bibnamehash}{cbbb431ccc70762ee47cdcce1e9b4c24}
+      \strng{authorbibnamehash}{cbbb431ccc70762ee47cdcce1e9b4c24}
+      \strng{authornamehash}{205c015c61573d46421919562a841c26}
+      \strng{authorfullhash}{ef67ea82e5c791a62b66b751b2ae0faa}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Parasitology}
+      \field{month}{9}
+      \field{title}{Coevolution of \textit{Cryptosporidium~tyzzeri} and the house mouse (\textit{Mus~musculus})}
+      \field{volume}{43}
+      \field{year}{2013}
+      \field{pages}{805\bibrangedash 817}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.ijpara.2013.04.007
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.ijpara.2013.04.007
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.ijpara.2013.04.007
       \endverb
     \endentry
     \entry{larson_evolution_2018}{article}{}
@@ -6602,7 +6420,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{bioRxiv}
       \field{month}{12}
-      \field{title}{Widespread introgression of the Mus musculus musculus {Y} chromosome in Central Europe}
+      \field{title}{Widespread introgression of the \textit{Mus musculus musculus} {Y} chromosome in {Central Europe}}
       \field{year}{2019}
       \verb{doi}
       \verb 10.1101/2019.12.23.887471
@@ -7061,7 +6879,7 @@
       \endverb
       \keyw{Japanese rock ptarmigan}
     \endentry
-    \entry{mayr_animal_1963}{book}{}
+    \entry{mayr_systematics_1942}{book}{}
       \name{author}{1}{}{%
         {{hash=cac50db2a50745fbffff26230282b557}{%
            family={Mayr},
@@ -7069,11 +6887,8 @@
            given={Ernst},
            giveni={E\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
       \list{publisher}{1}{%
-        {Belknap Press of Harvard University Press}%
+        {Columbia University Press, New York}%
       }
       \strng{namehash}{cac50db2a50745fbffff26230282b557}
       \strng{fullhash}{cac50db2a50745fbffff26230282b557}
@@ -7088,9 +6903,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-674-86532-7}
-      \field{title}{Animal species and evolution}
-      \field{year}{1963}
+      \field{title}{Systematics and the origin of species}
+      \field{year}{1942}
     \endentry
     \entry{MazGuilmo2014}{article}{}
       \name{author}{5}{}{%
@@ -8608,8 +8422,8 @@
     \endentry
     \entry{R_2010}{manual}{}
       \name{author}{1}{}{%
-        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
-           family={{R Core Team}},
+        {{hash=74eaa7e448f8b6680c1179aa0228bb13}{%
+           family={{R Development Core Team}},
            familyi={R\bibinitperiod}}}%
       }
       \list{location}{1}{%
@@ -8618,12 +8432,12 @@
       \list{organization}{1}{%
         {R Foundation for Statistical Computing}%
       }
-      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{namehash}{74eaa7e448f8b6680c1179aa0228bb13}
+      \strng{fullhash}{74eaa7e448f8b6680c1179aa0228bb13}
+      \strng{bibnamehash}{74eaa7e448f8b6680c1179aa0228bb13}
+      \strng{authorbibnamehash}{74eaa7e448f8b6680c1179aa0228bb13}
+      \strng{authornamehash}{74eaa7e448f8b6680c1179aa0228bb13}
+      \strng{authorfullhash}{74eaa7e448f8b6680c1179aa0228bb13}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{extradatescope}{labelyear}
@@ -8631,14 +8445,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{http://www.R-project.org/}
       \field{title}{R: A Language and Environment for Statistical Computing}
       \field{year}{2013}
-      \verb{urlraw}
-      \verb http://www.R-project.org/
-      \endverb
-      \verb{url}
-      \verb http://www.R-project.org/
-      \endverb
     \endentry
     \entry{raaberg_decomposing_2009}{article}{}
       \name{author}{3}{}{%
@@ -9347,6 +9156,9 @@
       \field{year}{1996}
       \field{pages}{255\bibrangedash 262}
       \range{pages}{8}
+      \verb{doi}
+      \verb 10.2307/3284157
+      \endverb
       \keyw{Animals,Animals,Domestic,Coccidiosis,Disease Models,Animal,Dose-Response Relationship,Immunologic,Eimeria,Feces,Immunocompetence,Immunocompromised Host,Intestinal Diseases,Parasitic,Mice,Mice,Inbred BALB C,Mice,Mutant Strains,Mice,SCID,Parasite Egg Count}
     \endentry
     \entry{schmid-hempel_parasitesnew_2009}{article}{}
@@ -9668,6 +9480,67 @@
       \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/04-0232
       \endverb
       \keyw{body condition,body mass,body size,Clethrionomys gapperi,fat,Microtus pennsylvanicus,Neotoma cinerea,Peromyscus maniculatus,reduced major axis,regression analysis,residuals,Tamias amoenus}
+    \endentry
+    \entry{schulte_host_2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=79f35202293f72636bba38dd6f593e72}{%
+           family={Schulte},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=920e835f41639c47d23406d8c73e3bf5}{%
+           family={Makus},
+           familyi={M\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4245c3534acfddf4c8c14ea3bf334e70}{%
+           family={Hasert},
+           familyi={H\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=43af534479fc9c337bf8a29994587cdb}{%
+           family={Michiels},
+           familyi={M\bibinitperiod},
+           given={Nico\bibnamedelima K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=df2ec75afb693cd07da02d621fca5774}{%
+           family={Schulenburg},
+           familyi={S\bibinitperiod},
+           given={Hinrich},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{8ca10a0c57992109c05e825ba67a406d}
+      \strng{fullhash}{5f90dbbdaca9f8f42b72cf3d40ada0ea}
+      \strng{bibnamehash}{5f90dbbdaca9f8f42b72cf3d40ada0ea}
+      \strng{authorbibnamehash}{5f90dbbdaca9f8f42b72cf3d40ada0ea}
+      \strng{authornamehash}{8ca10a0c57992109c05e825ba67a406d}
+      \strng{authorfullhash}{5f90dbbdaca9f8f42b72cf3d40ada0ea}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B: Biological Sciences}
+      \field{month}{2}
+      \field{title}{Host{–}parasite local adaptation after experimental coevolution of \textit{Caenorhabditis elegans} and its microparasite \textit{Bacillus thuringiensis}}
+      \field{volume}{278}
+      \field{year}{2011}
+      \field{pages}{2832\bibrangedash 2839}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1098/rspb.2011.0019
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1098/rspb.2011.0019
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1098/rspb.2011.0019
+      \endverb
     \endentry
     \entry{schurer_community-based_2016}{article}{}
       \name{author}{5}{}{%

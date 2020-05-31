@@ -1,18 +1,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[11pt]{report} 
 \usepackage[a4paper, margin=2.5cm]{geometry} %set up margins 2.5cm
-\usepackage{graphicx} % for graphics
-\usepackage{float} % to position graphics
-\usepackage[labelfont=bf]{caption} 
-\captionsetup[figure]{font={stretch=1.2}}    %% change 1.2 as you like
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5}  % increase line spacing
 \usepackage{fontspec}
 \setmainfont{Arial}
-\usepackage[raggedright]{titlesec} %raggedright option = don't cut titles!
 % MS Word style justification rather than latex-style hyphenation
 \tolerance=1
 \emergencystretch=\maxdimen
 \hyphenpenalty=10000
 \hbadness=10000
+%%%%%% Figures 
+\usepackage{graphicx} % for graphics
+\usepackage{float} % to position graphics
+\usepackage[labelfont=bf]{caption} 
+\captionsetup[figure]{font={stretch=1.2}}    %% change 1.2 as you like
+\usepackage[raggedright]{titlesec} %raggedright option = don't cut titles!
 \usepackage{xcolor}
 \definecolor{coolblack}{rgb}{0.0, 0.18, 0.39} %citations color
 \usepackage[hyphens]{url}
@@ -22,8 +25,6 @@
 \setlength{\parindent}{0pt} % no paragraph indentation
 \setlength{\parskip}{1em} %but a space
 \usepackage{textcomp} % provides underscore
-\usepackage{setspace}
-\renewcommand{\baselinestretch}{1.5}  % increase line spacing
 \usepackage{titletoc}% format TOC titles
 \titlecontents{chapter}% <section-type>
   [0pt]% <left>
@@ -67,12 +68,46 @@
 \begin{tabular}{l l}
 Abbreviation & full term \\
 \hline
-MHC & Major Histocompatibility Complex \\
+AIC & Akaike information criterion \\
+CI & confidence interval \\
+Ct & cycle threshold \\
+°C & degrees celsius \\
+DNA & deoxyribonucleic acid \\
+dpi & days post infection \\
+F1 & first generation of crossing \\
+F2 & second generation of crossing \\
+F3 & third generation of crossing \\
+F4 & fourth generation of crossing \\
+Fig & figure \\
+GTP & guanosine triphosphate \\
+He & expected heterozygosity \\
+HI & hybrid index \\
+HMHZ   & European house mouse hybrid zone \\
+IFNγ & interferon γ \\
+km & kilometer \\
+log2 & logarithm to the base 2 \\
+MHC & major histocompatibility complex \\
+min & minute \\
 Mmd & \textit{Mus musculus domesticus} \\
 Mmm    & \textit{Mus musculus musculus}  \\
-HMHZ   & European house mouse hybrid zone \\
-km, C, HI, qPCR, DNA, s, Fig
+mL & milliliter
+\end{tabular}
 
+\newpage
+
+\begin{tabular}{l l}
+Abbreviation & full term \\
+\hline
+NaCl & sodium chloride \\
+OPG & oocysts per gram of feces \\
+PCR & polymerase chain reaction \\
+qPCR & quantitative polymerase chain reaction \\
+s & second \\
+sd & standard deviation \\
+SIR & susceptible, infected, removed \\
+Th1 & T helper type 1 \\
+Th2 & T helper type 2 \\
+ZINB &  zero-inflated negative binomial
 \end{tabular}
 
 \chapter{General introduction}
@@ -110,14 +145,23 @@ km, C, HI, qPCR, DNA, s, Fig
 \addcontentsline{toc}{chapter}{Acknowledgements}
 \input{chapters/Acknowledgements}
 
-\chapter*{Funding sources}
+\newpage
 
-\textbf{Funding:}\\
+\section*{Funding sources}
+\addcontentsline{toc}{chapter}{Funding source}
 
 The work presented in this thesis was funded by the German Research Foundation (DFG) Grant [HE 7320/1-1] to Emanuel Heitlinger. V{\'{\i}}ctor Hugo Jarqu{\'{\i}}n-D{\'{\i}}az is an associated student of Research Training Group GRK 2046 funded by the DFG. Mouse genotyping was carried out as a part of the Czech Science Foundation projects No. 15-13265S and 16-23773S (to Stuart J. E. Baird, Milo{\v{s}} Machol{\'{a}}n and Jaroslav Pi{\'{a}}lek). The maintenance of wild-derived strains was supported by the ROSE program from Czech Academy of Sciences and the Czech Science Foundation (project 16-23773S) to Jaroslav Pi{\'{a}}lek.
 
-\chapter*{Selbstständigkeitserklärung}
+\section*{Interessenskonflikte}
+\addcontentsline{toc}{chapter}{Interessenskonflikte}
+
+Es besteht kein Interessenskonflikt durch finanzielle Unterstützung der Arbeiten.
+
+\section*{Selbstständigkeitserklärung}
 \addcontentsline{toc}{chapter}{Selbstständigkeitserklärung}
-\input{chapters/statementofauthorship}
+
+Hiermit bestätige ich, dass ich die vorliegende Arbeit selbständig angefertigt habe. Ich versichere, dass ich ausschließlich die angegebenen Quellen und Hilfen in Anspruch genommen habe.
+\par
+Berlin, 21. May 2020 \hfill Alice Christiane Anne-Marie Balard
 
 \end{document}

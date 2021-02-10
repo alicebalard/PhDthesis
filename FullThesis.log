@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.6.7)  10 FEB 2021 08:40
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2020.6.7)  10 FEB 2021 08:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1180,27 +1180,27 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ] [2] [3]
 Overfull \hbox (1.29709pt too wide) detected at line 132
- \TU/Arial(0)/bx/n/10.95 102
+ \TU/Arial(0)/bx/n/10.95 105
  []
 
 
 Overfull \hbox (1.29709pt too wide) detected at line 134
- \TU/Arial(0)/bx/n/10.95 103
+ \TU/Arial(0)/bx/n/10.95 106
  []
 
 
 Overfull \hbox (1.29709pt too wide) detected at line 136
- \TU/Arial(0)/bx/n/10.95 106
+ \TU/Arial(0)/bx/n/10.95 109
  []
 
 
 Overfull \hbox (1.29709pt too wide) detected at line 138
- \TU/Arial(0)/bx/n/10.95 106
+ \TU/Arial(0)/bx/n/10.95 109
  []
 
 
 Overfull \hbox (1.29709pt too wide) detected at line 140
- \TU/Arial(0)/bx/n/10.95 106
+ \TU/Arial(0)/bx/n/10.95 109
  []
 
 )
@@ -1367,11 +1367,6 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 175.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `FullThesis.out' has not changed.
 (rerunfilecheck)             Checksum: 10E42C9317D926CFB22A4DE0691F963C.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'FullThesis.run.xml'.
 \openout1 = `FullThesis.run.xml'.
 
@@ -1380,7 +1375,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
 Here is how much of TeX's memory you used:
  33170 strings out of 494900
  635480 string characters out of 6177141
- 1412041 words of memory out of 5000000
+ 1412111 words of memory out of 5000000
  36738 multiletter control sequences out of 15000+600000
  537160 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

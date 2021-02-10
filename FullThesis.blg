@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'FullThesis.blg'
-[27] biber:315> INFO - === Wed Feb 10, 2021, 08:40:00
-[49] Biber.pm:371> INFO - Reading 'FullThesis.bcf'
-[174] Biber.pm:889> INFO - Found 192 citekeys in bib section 0
-[184] Biber.pm:4093> INFO - Processing section 0
-[199] Biber.pm:4254> INFO - Looking for bibtex format file 'mybib280520.bib' for section 0
-[230] bibtex.pm:1512> INFO - LaTeX decoding ...
-[690] bibtex.pm:1329> INFO - Found BibTeX data source 'mybib280520.bib'
-[2011] Utils.pm:193> WARN - BibTeX subsystem: /tmp/IxrsPAxODh/mybib280520.bib_24563.utf8, line 3164, warning: 102 characters of junk seen at toplevel
-[2254] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2254] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2255] Biber.pm:3921> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-GB'
-[2255] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-GB'
-[2432] bbl.pm:636> INFO - Writing 'FullThesis.bbl' with encoding 'UTF-8'
-[2536] bbl.pm:739> INFO - Output to FullThesis.bbl
-[2536] Biber.pm:110> INFO - WARNINGS: 1
+[38] biber:315> INFO - === Wed Feb 10, 2021, 08:50:57
+[67] Biber.pm:371> INFO - Reading 'FullThesis.bcf'
+[214] Biber.pm:889> INFO - Found 192 citekeys in bib section 0
+[227] Biber.pm:4093> INFO - Processing section 0
+[239] Biber.pm:4254> INFO - Looking for bibtex format file 'mybib280520.bib' for section 0
+[271] bibtex.pm:1512> INFO - LaTeX decoding ...
+[787] bibtex.pm:1329> INFO - Found BibTeX data source 'mybib280520.bib'
+[2286] Utils.pm:193> WARN - BibTeX subsystem: /tmp/2SrP00VBM8/mybib280520.bib_25270.utf8, line 3164, warning: 102 characters of junk seen at toplevel
+[2567] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2568] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2568] Biber.pm:3921> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-GB'
+[2568] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-GB'
+[2749] bbl.pm:636> INFO - Writing 'FullThesis.bbl' with encoding 'UTF-8'
+[2856] bbl.pm:739> INFO - Output to FullThesis.bbl
+[2857] Biber.pm:110> INFO - WARNINGS: 1
